@@ -4,8 +4,4 @@ Mile Radulovic
 Milica Avramovic
 Marko Ranisavljev
 Bojana Mijuskovic
-<<<<<<< HEAD
 Dora Bodonji
-=======
-DoraBodonji
->>>>>>> DoraBodonji
